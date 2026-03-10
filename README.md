@@ -1,3 +1,7 @@
+First off, HUGE credit to @nvttles for creating the mixed media edit used in the header for this skin!
+https://x.com/nvttles/status/2025638439937249601?s=20
+
+
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
 1) Copy the code provided here. There is a copy button at the top of the code box in github.
