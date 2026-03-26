@@ -1,6 +1,7 @@
 First off, HUGE credit to @nvttles for creating the mixed media edit used in the header for this skin!
 https://x.com/nvttles/status/2025638439937249601?s=20
 
+If you have any feedback or run into any issues with the skin, please message me on twitter! (same username)
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
