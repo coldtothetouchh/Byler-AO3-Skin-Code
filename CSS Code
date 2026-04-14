@@ -1,5 +1,5 @@
 #header {
-  background-image: url("https://i.postimg.cc/d3PMdhR6/IMG-4307.gif");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Byler-AO3-Skin-Code/main/edit-by-nvttles-1.gif");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;
@@ -61,7 +61,7 @@
 
 #outer.wrapper {
   background: #0d1d1f;
-  background-image: url("https://i.postimg.cc/Y2Jkg1gm/bylerstars.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Byler-AO3-Skin-Code/refs/heads/main/byler-stars.png");
   background-size: 50% auto;
   background-repeat: repeat;
   background-position: center top;
@@ -205,7 +205,7 @@ p.kudos::before {
   transform: translateY(-50%);
   width: 80px;
   height: 80px;
-  background: url("https://i.postimg.cc/52CPZCkL/Byler-Heart.png") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Byler-AO3-Skin-Code/refs/heads/main/Byler-Heart.png") no-repeat center center;
   background-size: contain;
   filter: drop-shadow(0 0 6px #b3e0ff);
 }
@@ -227,7 +227,7 @@ fieldset,
 }
 
 #footer.region {
-  background-image: url("https://i.postimg.cc/Y2Jkg1gm/bylerstars.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Byler-AO3-Skin-Code/refs/heads/main/byler-stars.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
